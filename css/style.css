@@ -13,6 +13,20 @@ h1 {
 	margin-top: 100px;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 4em;
-	color: #f34573;
+	color: white;
 	font-weight: 400;
 	margin-left: 25%;
+}
+
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	font-size: 1.5em;
+	line-height: 35px;
+	display: block;
+	font-weight: bold;
+	text-indent: 0;
+	margin: 7% auto 150px auto;
+    color: #5e6073;
+}
