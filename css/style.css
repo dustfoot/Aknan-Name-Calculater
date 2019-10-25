@@ -27,6 +27,16 @@ p {
 	display: block;
 	font-weight: bold;
 	text-indent: 0;
-	margin: 7% auto 150px auto;
+	margin: 7% auto 100px auto;
     color: #5e6073;
 }
+
+
+h2{
+	color: #239f95;
+	font-family: 'Ubuntu', sans-serif;
+	margin-left: 20%;
+	padding: 2%;
+}
+
+
