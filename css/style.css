@@ -1,8 +1,18 @@
 
    body {
 	max-height: 500px;
-	background-color: #e0e0e0;
+	background-color: rgb(241, 141, 9);
 	text-align: center;
 	max-width: 50%;
 	margin-left: 20%;
 }
+
+
+h1 {
+	text-align: center;
+	margin-top: 100px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 4em;
+	color: #f34573;
+	font-weight: 400;
+	margin-left: 25%;
