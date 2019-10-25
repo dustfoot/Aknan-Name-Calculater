@@ -8,7 +8,7 @@
 }
 
 
- h1 {   /*fade this h1 */
+h1 {  
 	text-align: center;
 	margin-top: 35px;
 	font-family: 'Ubuntu', sans-serif;
@@ -21,7 +21,7 @@
 
 p {
 	font-family: 'Montserrat', sans-serif;
-	text-align: center;
+	text-align: left;
 	font-size: 1em;
 	line-height: 20px;
 	display: block;
@@ -43,14 +43,7 @@ h2{
 .middle-container {
 	max-width: 50%;
     margin-left:35%;
-    border: 1px solid white;
-    padding: 20px;
-    border-radius: 0.25em;
-}
-
-.form-group {
-    margin-left: 0;
-
+    border: 2px solid yellow;
 }
 
 
@@ -58,10 +51,9 @@ span{
     color: #f34573;
 }
 
-output {
+h3 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #949797d8;
+	color: #28544b;
 	font-weight: 300;
 	font-size: 2em;
 }
-
