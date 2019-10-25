@@ -8,26 +8,26 @@
 }
 
 
-h1 {
+ h1 {   /*fade this h1 */
 	text-align: center;
-	margin-top: 100px;
+	margin-top: 35px;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 4em;
 	color: white;
 	font-weight: 400;
-	margin-left: 25%;
+    margin-left: 25%;
 }
 
 
 p {
 	font-family: 'Montserrat', sans-serif;
-	text-align: left;
-	font-size: 1.5em;
-	line-height: 35px;
+	text-align: center;
+	font-size: 1em;
+	line-height: 20px;
 	display: block;
 	font-weight: bold;
 	text-indent: 0;
-	margin: 7% auto 100px auto;
+	margin: 2% auto 35px auto;
     color: #5e6073;
 }
 
@@ -36,15 +36,32 @@ h2{
 	color: #239f95;
 	font-family: 'Ubuntu', sans-serif;
 	margin-left: 20%;
-	padding: 2%;
+	padding: 0.5%;
 }
 
 
 .middle-container {
 	max-width: 50%;
-	margin-left:35%;
+    margin-left:35%;
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 0.25em;
+}
+
+.form-group {
+    margin-left: 0;
+
 }
 
 
 span{
-	color: #f34573;
+    color: #f34573;
+}
+
+output {
+	font-family: 'Ubuntu', sans-serif;
+	color: #949797d8;
+	font-weight: 300;
+	font-size: 2em;
+}
+
