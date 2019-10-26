@@ -43,6 +43,8 @@ function checkDayOfWeek(){
      console.log("The function runs");
 }
 
+let daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+
 
 
 
