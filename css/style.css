@@ -59,3 +59,9 @@ h3 {
 	font-weight: 300;
 	font-size: 2em;
 }
+
+.form-control{
+	width: 120px;
+	padding: 6px;
+	outline: blue;
+}
