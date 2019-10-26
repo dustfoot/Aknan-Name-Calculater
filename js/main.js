@@ -37,5 +37,12 @@ function calculateDay(){
     }
 }
 
+function checkDayOfWeek(){
+    day = calculateDay();
+     checkGender();
+     console.log("The function runs");
+}
+
+
 
 
