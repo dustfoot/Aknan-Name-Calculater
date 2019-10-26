@@ -9,3 +9,18 @@ function getInput(){
     dayOfMonth=parseInt(document.getElementById("monthday").value);
 }
 
+if(century == ""){
+    alert("Input the correct gender");
+    return false;
+  }else if (year == ""){
+    alert("Input the correct year");
+    return false;
+  }else if (month == ""){
+    alert("Input the correct month");
+    return false;
+  }else if(dayOfMonth == ""){
+    alert("input the correct date");
+    return false;
+  }
+}
+
