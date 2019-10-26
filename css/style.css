@@ -64,4 +64,14 @@ h3 {
 	width: 120px;
 	padding: 6px;
 	outline: blue;
+	background-color: burlywood;
+	margin-left: 4em;
+	
+}
+
+.form-control input{
+
+}
+.form-control label{
+	p
 }
