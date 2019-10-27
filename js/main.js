@@ -1,4 +1,4 @@
-// alert("hi, from js"); testing js
+// alert("hi, from karshe"); testing js
 var century, year, month, dayOfMonth, dayOfWeek, day;
 
 //Get input
