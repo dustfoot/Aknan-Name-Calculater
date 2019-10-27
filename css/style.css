@@ -42,9 +42,9 @@ h2{
 
 
 .middle-container {
-	max-width: 50%;
-    margin-left:35%;
-	border: 2px solid yellow;
+	max-width: 70%;
+    margin-left:50%;
+	border: 5px solid yellow;
 	border-radius: 5%;
 }
 
@@ -66,12 +66,6 @@ h3 {
 	outline: blue;
 	background-color: burlywood;
 	margin-left: 4em;
-	
 }
 
-.form-control input{
 
-}
-.form-control label{
-	p
-}
