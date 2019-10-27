@@ -6,7 +6,7 @@
 >KARSHE
 
 ## <b>Settings</b>
- >git clone https://<span>
+ >git clone https://<span>https://github.com/dustfoot/Aknan-Name-Calculater
 
  extract the file
 
