@@ -1,4 +1,6 @@
-
+*{
+	background-color: darkkhaki;
+}
    body {
 	max-height: 500px;
 	background-color: rgb(241, 141, 9);
@@ -62,10 +64,10 @@ h3 {
 
 .form-control{
 	width: 120px;
-	padding: 6px;
+	padding: 9px;
 	outline: blue;
 	background-color: burlywood;
-	margin-left: 4em;
+	margin-left: 0em, auto;
 }
 
 
