@@ -3,7 +3,7 @@
 }
    body {
 	max-height: 500px;
-	background-color: rgb(241, 141, 9);
+	/* background-color: rgb(241, 141, 9); */
 	text-align: center;
 	max-width: 50%;
 	margin-left: 20%;
@@ -46,7 +46,7 @@ h2{
 .middle-container {
 	max-width: 70%;
     margin-left:50%;
-	border: 5px solid yellow;
+	border: 7px solid yellow;
 	border-radius: 5%;
 }
 
