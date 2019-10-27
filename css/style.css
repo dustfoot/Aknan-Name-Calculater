@@ -13,6 +13,7 @@
 h1 {  
 	text-align: center;
 	margin-top: 35px;
+	margin-left: inherit;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 4em;
 	color: white;
