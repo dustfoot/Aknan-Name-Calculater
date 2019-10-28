@@ -5,8 +5,9 @@
 ## <b>Author</b>
 >KARSHE
 
-## <b>Settings</b>
- >git clone https://<span>https://github.com/dustfoot/Aknan-Name-Calculater
+
+ 
+##live link : https://dustfoot.github.io/Aknan-Name-Calculater/
 
  extract the file
 
