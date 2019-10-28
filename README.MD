@@ -1,12 +1,10 @@
 # <b>Akan Names</b>
-#### <a href="https://https://github.com/dustfoot/Aknan-Name-Calculater/">check it out</a>
+#### <a href="https://dustfoot.github.io/Aknan-Name-Calculater/">check out my live link</a>
 ## <b>Description.</b>
 #### A web application that takes a user's birthday, calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 ## <b>Author</b>
 >KARSHE
 
- 
-## live link : https://dustfoot.github.io/Aknan-Name-Calculater/
 
  extract the file
 
