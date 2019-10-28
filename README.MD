@@ -40,4 +40,4 @@
 > MIT License &copy 2019 karshe ali
 
 ## Collaborate
-To collaborate, reach me on [Email](dustfoot3668gmail.com)
+To collaborate, reach me on [Email](dustfoot3668@gmail.com)
