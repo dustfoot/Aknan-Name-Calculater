@@ -5,9 +5,8 @@
 ## <b>Author</b>
 >KARSHE
 
-
  
-##live link : https://dustfoot.github.io/Aknan-Name-Calculater/
+## live link : https://dustfoot.github.io/Aknan-Name-Calculater/
 
  extract the file
 
